@@ -1,0 +1,12 @@
+img{
+    height: 250px;
+    width: 200px;
+    
+}
+.client-container{
+    background-color: rgb(15, 37, 44);
+    padding: 10%;
+}
+.client-heading{
+    background-color: lightblue;
+}

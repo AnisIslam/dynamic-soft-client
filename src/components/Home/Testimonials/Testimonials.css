@@ -1,0 +1,21 @@
+.testimonials .container{
+    background-image: url(../../../images/quote.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+}
+
+
+.testimonials .card{
+    border-left: 1px solid teal;
+    
+    border-radius: 1em;
+    box-shadow: teal;
+}
+
+.testimonials .card .card-footer{
+    background: transparent;
+}
+.testimonials{
+    background-color: rgb(44, 103, 122);
+}
