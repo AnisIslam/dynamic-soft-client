@@ -36,6 +36,8 @@ Back-end Technology:
 - JWT Token
 
  [Live Website](https://dynamic-soft.web.app/)
+ 
+ Server Side Git: https://github.com/AnisIslam/dynamic-soft-server
 
 # complete-website-client-AnisIslam
 # dynamic-soft-client
